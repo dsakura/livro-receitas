@@ -3,3 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas :fork_and_knife:
 
 - Strogonoff Vegano
+- Pavê
+
